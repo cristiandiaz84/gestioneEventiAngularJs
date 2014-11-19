@@ -1,0 +1,40 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="myheader">
+            <img src="img/logo.png" alt="logo" class="img-logo"/>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li><a href="#/creaRelatore">Censire un relatore</a></li>
+            <li><a href="#/vaiEvento">Censire un evento</a></li>
+            <li><a href="#/eventiPassati">Lista eventi passati</a></li>          
+            <li><a href="#/eventiFuturi">Lista eventi futuri</a></li> 
+            <li ng-show="menuPrenotazioni"><a href="#/listaPrenotazioni">Lista eventi prenotati</a></li> 
+            <li class="nav-divider"></li>
+            <li><a id="nero" ng-click="logout();"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+        </ul>
+    </div>
+</div>
+<div class="col-md-9 col-md-offset-3">
+    <h3>Lista partecipanti</h3>
+    <div>{{messaggio}}</div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Profilo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="partecipante in partecipanti">
+                <td>{{partecipante.username}}</td>
+                <td>{{partecipante.profilo}}</td>
+            </tr>
+        </tbody>
+
+    </table>
+</div>

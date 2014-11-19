@@ -1,0 +1,61 @@
+<div class="row">
+                <div class="col-md-12">
+                    <div class="myheader">
+                        <img src="img/logo.png" alt="logo" class="img-logo"/>
+                    </div>
+                </div>
+            </div>
+<div class="row">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#/home"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li class="active"><a href="#/creaRelatore">Censire un relatore</a></li>
+            <li><a href="#/vaiEvento">Censire un evento</a></li>
+            <li><a href="#/eventiPassati">Lista eventi passati</a></li>          
+            <li><a href="#/eventiFuturi">Lista eventi futuri</a></li> 
+            <li ng-show="menuPrenotazioni"><a href="#/listaPrenotazioni">Lista eventi prenotati</a></li> 
+            <li class="nav-divider"></li>
+            <li><a id="nero" ng-click="logout();"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+        </ul>
+    </div>
+</div> 
+<div class="col-md-9 col-md-offset-4">
+    <div ng-show="relatoreOK" class="iscrizionesucc">
+        {{messaggio}}
+    </div>
+    <h1>Censisci un relatore</h1>
+    <form class="form-horizontal">
+        <div class="form-group">
+            <label for="nome" class="col-sm-4 control-label">Nome: </label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" placeholder="Nome" ng-model="relatore.nome" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="cognome" class="col-sm-4 control-label">Cognome: </label>
+            <div class="col-sm-8">
+                <input type="text" ng-model="relatore.cognome" class="form-control" placeholder="Cognome"/>
+            </div>
+        </div>    
+        <div class="form-group">
+            <label for="titolodistudio" class="col-sm-4 control-label">Titolo di studio: </label>
+            <div class="col-sm-8">
+                <input type="text" ng-model="relatore.titoloStudio" class="form-control" placeholder="Titolo di studio"/>
+            </div>
+        </div>
+        <div class="form-group">   
+            <label for="email" class="col-sm-4 control-label">E-mail:</label>
+            <div class="col-sm-8">
+                <input type="text" ng-model="relatore.email" class="form-control" placeholder="E-mail"/>
+            </div>
+        </div>   
+        <div class="form-group">
+            <div class="col-sm-offset-9 col-sm-3">
+                <button ng-click="creaRelatore(relatore)" class="btn btn-info">Crea</button>
+            </div>
+        </div>
+    </form> 
+    <div>
+        {{messaggio}}
+    </div>
+</div>

@@ -1,0 +1,132 @@
+17750  [io-8084-exec-15] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+22656  [io-8084-exec-15] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente
+27938  [io-8084-exec-12] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+10687  [io-8084-exec-29] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+12968  [io-8084-exec-29] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente
+24812  [io-8084-exec-39] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+37656  [io-8084-exec-34] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+40094  [io-8084-exec-34] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente
+46094  [io-8084-exec-43] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+46734  [io-8084-exec-42] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+20765  [io-8084-exec-59] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+23734  [io-8084-exec-59] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente
+29578  [io-8084-exec-57] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+17797  [io-8084-exec-60] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+20657  [io-8084-exec-60] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente
+28063  [io-8084-exec-71] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di conferma utente
+48532  [io-8084-exec-51] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+48532  [io-8084-exec-51] DEBUG tioneeventi.web.AuthController  - Utente loggato correttamente
+17109  [io-8084-exec-88] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+17359  [io-8084-exec-88] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+45016  [io-8084-exec-90] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+45203  [io-8084-exec-90] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+43672  [o-8084-exec-120] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+44125  [o-8084-exec-120] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+61500  [o-8084-exec-105] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+61515  [o-8084-exec-105] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+65578  [o-8084-exec-113] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+65625  [o-8084-exec-113] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+73343  [o-8084-exec-116] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+73359  [o-8084-exec-116] ERROR tioneeventi.web.AuthController  - Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+77468  [o-8084-exec-117] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+77484  [o-8084-exec-117] DEBUG tioneeventi.web.AuthController  - Utente loggato correttamente
+90484  [o-8084-exec-118] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di login
+90500  [o-8084-exec-118] DEBUG tioneeventi.web.AuthController  - Utente loggato correttamente
+101812 [o-8084-exec-142] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+105328 [o-8084-exec-142] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fp9sm4627295wic.12 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fp9sm4627295wic.12 - gsmtp
+
+127156 [o-8084-exec-141] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+127734 [o-8084-exec-141] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fm10sm25701808wjc.43 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fm10sm25701808wjc.43 - gsmtp
+
+237203 [o-8084-exec-143] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+242047 [o-8084-exec-143] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h2sm8880114wix.5 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h2sm8880114wix.5 - gsmtp
+
+69531  [o-8084-exec-158] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+75500  [o-8084-exec-158] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gw6sm19960526wib.8 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gw6sm19960526wib.8 - gsmtp
+
+88843  [o-8084-exec-150] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+90281  [o-8084-exec-150] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 p3sm56220929wjf.49 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 p3sm56220929wjf.49 - gsmtp
+
+36765  [io-8084-exec-12] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+43031  [io-8084-exec-12] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 e7sm23296943wjx.31 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 e7sm23296943wjx.31 - gsmtp
+
+46734  [io-8084-exec-16] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+47578  [io-8084-exec-16] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dm10sm19950857wib.18 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dm10sm19950857wib.18 - gsmtp
+
+51359  [nio-8084-exec-8] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+51750  [nio-8084-exec-2] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+53046  [nio-8084-exec-2] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25088736wjs.28 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25088736wjs.28 - gsmtp
+
+62125  [nio-8084-exec-8] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gi5sm2384214wjd.26 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gi5sm2384214wjd.26 - gsmtp
+
+119281 [io-8084-exec-18] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+120078 [io-8084-exec-18] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 n4sm19957480wiz.17 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 n4sm19957480wiz.17 - gsmtp
+
+64750  [io-8084-exec-29] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+65953  [io-8084-exec-29] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ny6sm19960195wic.22 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ny6sm19960195wic.22 - gsmtp
+
+26094  [io-8084-exec-35] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+28000  [io-8084-exec-35] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25120318wjs.28 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25120318wjs.28 - gsmtp
+
+58578  [io-8084-exec-31] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+59172  [io-8084-exec-31] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dr5sm20029445wib.4 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dr5sm20029445wib.4 - gsmtp
+
+80797  [io-8084-exec-38] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+81344  [io-8084-exec-38] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ji10sm20012039wid.7 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ji10sm20012039wid.7 - gsmtp
+
+30734  [io-8084-exec-49] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+33406  [io-8084-exec-49] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ge17sm20045759wic.0 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ge17sm20045759wic.0 - gsmtp
+
+44390  [io-8084-exec-51] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+45156  [io-8084-exec-51] ERROR tioneeventi.web.AuthController  - Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h8sm17088789wiy.17 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h8sm17088789wiy.17 - gsmtp
+
+256187 [io-8084-exec-55] DEBUG tioneeventi.web.AuthController  - Sono nel metodo di registrazione utente
+259109 [io-8084-exec-55] DEBUG tioneeventi.web.AuthController  - Utente registrato correttamente

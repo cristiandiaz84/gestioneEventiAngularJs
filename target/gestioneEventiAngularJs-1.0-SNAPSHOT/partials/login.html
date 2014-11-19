@@ -1,0 +1,37 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="myheader">
+            <img src="img/logo.png" alt="logo" class="img-logo"/>
+            <div class="flags">
+                <a href="?language=it"><img class="flag" src="img/it.png" /></a>
+                <a href="?language=en"><img class="flag" src="img/en.jpg" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-5">
+    <h1>Login</h1>
+    <form class="form-horizontal">
+        <div ng-show="messaErrore" class="form-group">
+            <div class="alert alert-danger" role="alert"><strong>{{messaggio}}</strong></div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-4 control-label">Username</label>
+            <div class="col-sm-8">
+                <input type="text" id="user" placeholder="Username" ng-model="utente.username"/>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-4 control-label">Password</label>
+            <div class="col-sm-8">
+                <input type="password" id="psw" placeholder="Password" ng-model="utente.password"/>
+            </div> 
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-9 col-sm-3">
+                <button type="submit" class="btn btn-info" ng-click="login(utente);">Login</button>
+            </div>    
+        </div>
+    </form>
+    <a href="#/registrazione" ><h1>Registrati</h1></a>
+</div>

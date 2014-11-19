@@ -1,0 +1,53 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="myheader">
+            <img src="img/logo.png" alt="logo" class="img-logo"/>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#/home"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li><a href="#/creaRelatore">Censire un relatore</a></li>
+            <li><a href="#/vaiEvento">Censire un evento</a></li>
+            <li><a href="#/eventiPassati">Lista eventi passati</a></li>          
+            <li class="active"><a href="#/eventiFuturi">Lista eventi futuri</a></li> 
+            <li ng-show="menuPrenotazioni"><a href="#/listaPrenotazioni">Lista eventi prenotati</a></li> 
+            <li class="nav-divider"></li>
+            <li><a id="nero" ng-click="logout();"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+        </ul>
+    </div>
+</div>     
+<div class="col-md-9 col-md-offset-3"> 
+    <h3>Lista Eventi Futuri</h3>
+    <div ng-show="iscrizioneOK" class="iscrizionesucc">{{messaggio}}</div>
+    <table  class="table table-bordered">
+        <thead class="centrato">
+            <tr>
+                <th>Titolo</th>
+                <th>Descrizione</th>
+                <th>Location</th>
+                <th>Datat inizio</th>
+                <th>Data fine</th>
+                <th>Relatore</th>
+                <th>Iscriviti</th>
+                <th ng-show="listaPartecipanti">Visualizza partecipanti</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="evento in eventi">
+                <td>{{evento.titolo}}</td>
+                <td>{{evento.descrizione}}</td>
+                <td>{{evento.location}}</td>
+                <td>{{evento.dataInizio|date:'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{evento.dataFine|date:'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{evento.relatore|filtroRelatore}}</td>
+                <td><img src="img/iscriviti.png" ng-click="iscrizione(evento.idEvento)" /></td>
+                <td ng-show="listaPartecipanti"><a href="#/listaPartecipanti/{{evento.idEvento}}"><img src="img/lista.png" /></a></td>   
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+

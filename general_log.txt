@@ -1,0 +1,431 @@
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+Sono nel metodo di conferma utente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+Sono nel metodo di conferma utente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+Sono nel metodo di conferma utente
+Sono nel metodo di conferma utente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+Sono nel metodo di conferma utente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+Sono nel metodo di conferma utente
+Sono nel metodo di login
+Utente loggato correttamente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.UserNotFoundException-null
+Sono nel metodo di login
+Eccezione: it.cspnet.gestioneeventi.exception.WrongPasswordException-null
+Sono nel metodo di login
+Utente loggato correttamente
+Sono nel metodo di login
+Utente loggato correttamente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fp9sm4627295wic.12 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fp9sm4627295wic.12 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fm10sm25701808wjc.43 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 fm10sm25701808wjc.43 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h2sm8880114wix.5 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h2sm8880114wix.5 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gw6sm19960526wib.8 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gw6sm19960526wib.8 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 p3sm56220929wjf.49 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 p3sm56220929wjf.49 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 e7sm23296943wjx.31 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 e7sm23296943wjx.31 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dm10sm19950857wib.18 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dm10sm19950857wib.18 - gsmtp
+
+Sono nel metodo di registrazione utente
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25088736wjs.28 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25088736wjs.28 - gsmtp
+
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gi5sm2384214wjd.26 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 gi5sm2384214wjd.26 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 n4sm19957480wiz.17 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 n4sm19957480wiz.17 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ny6sm19960195wic.22 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ny6sm19960195wic.22 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25120318wjs.28 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 j2sm25120318wjs.28 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dr5sm20029445wib.4 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 dr5sm20029445wib.4 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ji10sm20012039wid.7 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ji10sm20012039wid.7 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ge17sm20045759wic.0 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 ge17sm20045759wic.0 - gsmtp
+
+Sono nel metodo di registrazione utente
+Eccezione: org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h8sm17088789wiy.17 - gsmtp
+-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 h8sm17088789wiy.17 - gsmtp
+
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Sono nel metodo di registrazione utente
+Utente registrato correttamente
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
